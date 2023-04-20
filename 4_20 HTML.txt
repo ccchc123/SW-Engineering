@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        td{
+            border: 1;
+            border-color: red;
+            font-weight: bold;
+            text-align: center;
+        }
+    
+    </style>
+
+
+</head>
+<body>
+<table border="1" >
+    <caption>표예제</caption> 
+   
+    <hr />   
+<tr>
+    <td colspan="6">한국의차</td>
+    <!-- <td></td> -->
+    <!-- <td></td> -->
+    <!-- <td></td> -->
+    <!-- <td></td> -->
+    <!-- <td></td> -->
+</tr>
+<tr>
+    <td rowspan="6">뿌리차</td>
+    <td>인심차</td>
+    <td rowspan="9">과일차</td>
+    <td>수정과</td>
+    <td rowspan="5">잎차</td>
+    <td>뽕잎차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>당귀차</td>
+    <!-- <td></td> -->
+    <td>유자차</td>
+    <!-- <td></td> -->
+    <td>감잎차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>생강차</td>
+    <!-- <td></td> -->
+    <td>구기자차</td>
+    <!-- <td></td> -->
+    <td>솔잎차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>칡차</td>
+    <!-- <td></td> -->
+    <td>대추차</td>
+    <!-- <td></td> -->
+    <td>국화차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>둥글레차</td>
+    <!-- <td></td> -->
+    <td>오미자차</td>
+    <!-- <td></td> -->
+    <td>이슬차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>마차</td>
+    <!-- <td></td> -->
+    <td>매실차</td>
+    <td rowspan="4">기타</td>
+    <td>두충차</td>
+</tr>
+<tr>
+    <td rowspan="3">곡물차</td>
+    <td>보리차</td>
+    <!-- <td></td> -->
+    <td>모과차</td>
+    <!-- <td></td> -->
+    <td>영지버섯차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>옥수수차</td>
+    <!-- <td></td> -->
+    <td>산수유차</td>
+    <!-- <td></td> -->
+    <td>굴감차</td>
+</tr>
+<tr>
+    <!-- <td></td> -->
+    <td>현미차</td>
+    <!-- <td></td> -->
+    <td>탕자차</td>
+    <!-- <td></td> -->
+    <td>쌍화차</td>
+</tr>
+</table>
+</body>
+</html>
